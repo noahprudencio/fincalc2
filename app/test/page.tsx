@@ -9,7 +9,7 @@ export const metadata: Metadata = {
 export default function TestPage() {
   return (
     <main className="flex min-h-screen items-center justify-center bg-slate-50 px-6 py-16 text-slate-950 dark:bg-slate-950 dark:text-slate-50">
-      <article className="relative w-full max-w-md overflow-hidden rounded-3xl border border-slate-200 bg-white p-8 shadow-sm dark:border-slate-800 dark:bg-slate-900">
+      <article className="relative w-full max-w-md overflow-hidden rounded-3xl border border-pink-200 bg-pink-50 p-8 shadow-sm dark:border-pink-800 dark:bg-pink-950">
         <div
           aria-hidden="true"
           className="absolute inset-x-0 top-0 h-1 bg-gradient-to-r from-emerald-500 to-teal-400"
@@ -43,7 +43,7 @@ export default function TestPage() {
           pages.
         </p>
 
-        <div className="mt-6 rounded-2xl bg-slate-50 p-5 dark:bg-slate-950/60">
+        <div className="mt-6 rounded-2xl bg-pink-100 p-5 dark:bg-pink-900/60">
           <p className="text-sm text-slate-600 dark:text-slate-300">
             Example value
           </p>
