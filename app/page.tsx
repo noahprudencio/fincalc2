@@ -16,7 +16,7 @@ const features = [
     title: "Mortgage Repayments Calculator",
     description:
       "Estimate monthly payments, understand total interest, and see how loan terms affect your mortgage.",
-    href: "/mortgage-calculator",
+    href: "/mortgage-repayments-calculator",
     icon: House,
     points: [
       "Monthly repayment estimates",
@@ -63,7 +63,7 @@ export default function Home() {
               </Link>
             </Button>
             <Button asChild variant="outline" size="lg">
-              <Link href="/mortgage-calculator">
+              <Link href="/mortgage-repayments-calculator">
                 <Calculator data-icon="inline-start" />
                 Try mortgage calculator
               </Link>
