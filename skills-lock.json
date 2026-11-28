@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "skills": {
+    "next-best-practices": {
+      "source": "vercel-labs/openreview",
+      "commit": "672deb21e70e471e0536d5ad7a67c14b8359e97e",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/next-best-practices/SKILL.md",
+      "computedHash": "9ea546a01ce0f1e93a6d3895b8f1d81177ec08257457d6a3848060b50b203191"
+    },
+    "shadcn": {
+      "source": "shadcn-ui/ui",
+      "commit": "0e5b2e621a9ee4cf6a604bbe6c5c0d5b70561eb4",
+      "sourceType": "github",
+      "skillPath": "skills/shadcn/SKILL.md",
+      "computedHash": "388962d16c7a4f13aaeee0d8f128e50a87df8553d42ef7988c39c0e1c74a40e8"
+    },
+    "skill-creator": {
+      "source": "anthropics/skills",
+      "commit": "e4bb5d960d87126ff3b3a8af1a104b7db67560ba",
+      "sourceType": "github",
+      "skillPath": "skills/skill-creator/SKILL.md",
+      "computedHash": "2d7f889e6ae93c6c27d699856942c336b5b8644537496987d5571043d059b1dc"
+    }
+  }
+}
